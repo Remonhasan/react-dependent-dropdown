@@ -2,7 +2,7 @@
 
 > A package of custom dependent dropdown with custome styles in React applications.
 
-[![NPM](https://img.shields.io/npm/v/react-dependent-dropdown.svg)](https://www.npmjs.com/package/react-dependent-dropdown) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Downloads](https://img.shields.io/npm/dt/react-en-bn.svg)](https://www.npmjs.com/package/react-dependent-dropdown)
+[![NPM](https://img.shields.io/npm/v/react-dependent-dropdown.svg)](https://www.npmjs.com/package/react-dependent-dropdown) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Downloads](https://img.shields.io/npm/dt/react-dependent-dropdown.svg)](https://www.npmjs.com/package/react-dependent-dropdown)
 
 ## Install
 
