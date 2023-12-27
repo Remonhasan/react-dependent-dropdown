@@ -1,16 +1,22 @@
 {
   "name": "react-dependent-dropdown",
-  "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "version": "1.0.3",
+  "description": "Custom dependent dropdown for react application.",
   "author": "remonhasan",
   "license": "MIT",
-  "repository": "https://github.com/Remonhasan/react-dependent-dropdown.git",
+  "repository": "https://github.com/Remonhasan/react-dependent-dropdown",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
   "engines": {
     "node": ">=10"
   },
+  "keywords": [
+    "react",
+    "dropdown",
+    "dependent-dropdown",
+    "react-component"
+  ],
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
@@ -47,6 +53,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1"
   },
+  "homepage": "https://github.com/Remonhasan/react-dependent-dropdown",
   "files": [
     "dist"
   ]
