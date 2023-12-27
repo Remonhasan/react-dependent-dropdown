@@ -45,4 +45,4 @@ class Example extends Component {
 
 ## License
 
-MIT © [remonhasan](https://github.com/remonhasan)
+MIT © [remonhasan](https://remonhasan.com/)
